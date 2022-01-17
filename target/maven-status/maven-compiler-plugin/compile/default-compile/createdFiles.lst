@@ -1,0 +1,6 @@
+com\retail\product\productservice\repository\ProductRepository.class
+com\retail\product\productservice\ProductServiceApplication.class
+com\retail\product\productservice\controller\ProductController.class
+com\retail\product\productservice\entity\Product.class
+com\retail\product\productservice\service\ProductService.class
+com\retail\product\productservice\security\SecurityConfig.class
